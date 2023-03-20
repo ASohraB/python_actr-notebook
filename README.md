@@ -11,3 +11,7 @@ Option 1: Run on Colab (contains one example model)
 Option 2: Run on Binder (contains several example models)
 
 {% embed url="https://mybinder.org/v2/gh/ASohraB/python_actr-notebook/main?labpath=/asoactrmodels.ipynb" %}
+
+Tutorial Video 1
+
+{% embed url="https://www.youtube.com/watch?v=vS8o4Da3boU" %}
